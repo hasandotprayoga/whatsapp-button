@@ -15,7 +15,7 @@
     widget.id = "whatsapp-widget";
     widget.innerHTML = `
         <a href="${url}" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Chat WhatsApp">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" alt="Chat WhatsApp">
         </a>
     `;
 
